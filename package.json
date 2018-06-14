@@ -28,8 +28,6 @@
   "scripts": {
     "build": "webpack",
     "build-watch": "webpack -w",
-    "start": "babel-node server",
-    "start-dev": "babel-node server & webpack -w",
     "clean": "rm -rf node_modules"
   }
 }
