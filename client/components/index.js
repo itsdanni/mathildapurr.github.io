@@ -1,0 +1,10 @@
+
+export { default as Nav } from './Nav'
+export { default as Main } from './Main'
+export { default as Intro } from './Intro'
+export { default as Project } from './Project'
+export { default as Content } from './Content'
+export { default as Skills } from './Skills'
+export { default as Projects } from './Projects'
+export { default as About } from './About'
+export { default as Footer } from './Footer'

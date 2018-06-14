@@ -1,0 +1,22 @@
+.white-grey {
+  background-color: white !important;
+}
+.light-grey {
+  background-color: #ECEFF1 !important;
+}
+.icon {
+  font-size: 3rem;
+}
+.icon-list {
+  list-style: none;
+}
+.icon-caption {
+  font-size: 0.8rem;
+}
+.white {
+  background-color: white
+}
+.nav-link-style {
+  color: grey;
+  font-size: 0.8rem;
+}
