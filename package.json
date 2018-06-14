@@ -30,7 +30,7 @@
   "scripts": {
     "build": "webpack",
     "build-w": "webpack -w",
-    "deploy": "gh-pages -d public",
+    "deploy": "webpack && gh-pages -d public",
     "clean": "rm -rf node_modules"
   }
 }
