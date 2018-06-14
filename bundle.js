@@ -63,7 +63,6 @@
 /******/ 	return __webpack_require__(__webpack_require__.s = 112);
 /******/ })
 /************************************************************************/
-<<<<<<< HEAD
 /******/ ([
 /* 0 */
 /***/ (function(module, exports) {
@@ -27142,16 +27141,4 @@ exports.default = Footer;
 
 /***/ })
 /******/ ]);
-=======
-/******/ ({
-
-/***/ 112:
-/***/ (function(module, exports) {
-
-throw new Error("Module build failed: Error: ENOENT: no such file or directory, open '/Users/danniliu/Projects/mathildapurr.github.io/.babelrc'\n    at Object.fs.openSync (fs.js:652:18)\n    at Object.fs.readFileSync (fs.js:553:33)\n    at ConfigChainBuilder.addConfig (/Users/danniliu/Projects/mathildapurr.github.io/node_modules/babel-core/lib/transformation/file/options/build-config-chain.js:146:32)\n    at ConfigChainBuilder.findConfigs (/Users/danniliu/Projects/mathildapurr.github.io/node_modules/babel-core/lib/transformation/file/options/build-config-chain.js:96:16)\n    at buildConfigChain (/Users/danniliu/Projects/mathildapurr.github.io/node_modules/babel-core/lib/transformation/file/options/build-config-chain.js:61:13)\n    at OptionManager.init (/Users/danniliu/Projects/mathildapurr.github.io/node_modules/babel-core/lib/transformation/file/options/option-manager.js:354:58)\n    at File.initOptions (/Users/danniliu/Projects/mathildapurr.github.io/node_modules/babel-core/lib/transformation/file/index.js:212:65)\n    at new File (/Users/danniliu/Projects/mathildapurr.github.io/node_modules/babel-core/lib/transformation/file/index.js:135:24)\n    at Pipeline.transform (/Users/danniliu/Projects/mathildapurr.github.io/node_modules/babel-core/lib/transformation/pipeline.js:46:16)\n    at transpile (/Users/danniliu/Projects/mathildapurr.github.io/node_modules/babel-loader/lib/index.js:50:20)\n    at Object.module.exports (/Users/danniliu/Projects/mathildapurr.github.io/node_modules/babel-loader/lib/index.js:173:20)");
-
-/***/ })
-
-/******/ });
->>>>>>> master
 //# sourceMappingURL=bundle.js.map
