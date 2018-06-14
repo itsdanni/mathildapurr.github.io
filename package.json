@@ -2,6 +2,7 @@
   "name": "Portfolio",
   "version": "1.0.0",
   "description": "My portfolio site",
+  "homepage": "https://mathildapurr.github.io",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
@@ -18,6 +19,7 @@
     "axios": "^0.17.0",
     "css-loader": "^0.28.11",
     "express": "^4.16.2",
+    "gh-pages": "^1.2.0",
     "history": "^4.7.2",
     "prop-types": "^15.6.0",
     "react": "^15.6.1",
@@ -27,7 +29,8 @@
   },
   "scripts": {
     "build": "webpack",
-    "build-watch": "webpack -w",
+    "build-w": "webpack -w",
+    "deploy": "gh-pages -d public",
     "clean": "rm -rf node_modules"
   }
 }
